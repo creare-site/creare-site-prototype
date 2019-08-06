@@ -1,10 +1,10 @@
-# [JAMstack - Hyperbolic](https://jamstack-hyperbolic.appseed.us/)
+# [JAMstack - Prototype](https://jamstack-prototype.appseed.us/)
 
-Blazing fast application coded by AppSeed in JAMstack pattern on top of Hyperbolic Pixelarity design.
+Blazing fast application coded by AppSeed in JAMstack pattern on top of Prototype Pixelarity design.
 
 <br />
 
-![JAMstack Hyperbolic - Gif animated intro.](https://github.com/app-generator/static/blob/master/products/jamstack-hyperbolic-intro.gif?raw=true)
+![JAMstack Prototype - Gif animated intro.](https://github.com/app-generator/static/blob/master/products/jamstack-prototype-intro.gif?raw=true)
 
 <br />
 
@@ -16,14 +16,14 @@ This is a commercial application, to use it you need to buy a license. Please ac
 
 ## App Links
 ---
- - [Jamstack Hyperbolic demo](https://jamstack-hyperbolic.appseed.us/)
- - [Hyperbolic](https://pixelarity.com/hyperbolic) - the design provided by Pixelarity 
+ - [Jamstack Prototype demo](https://jamstack-prototype.appseed.us/)
+ - [Prototype](https://pixelarity.com/prototype) - the design provided by Pixelarity 
 
 <br />
 
 ## How to use it
-- Clone this repo `git clone https://github.com/app-generator/priv-jamstack-hyperbolic.git`
-- change directory to `priv-jamstack-hyperbolic`
+- Clone this repo `git clone https://github.com/app-generator/priv-jamstack-prototype.git`
+- change directory to `priv-jamstack-prototype`
 - `yarn` - install deps
 - `yarn start` - live edit
 - `yarn build` - build for production in directory `_site`
@@ -40,4 +40,4 @@ This is a commercial application, to use it you need to buy a license. Please ac
 <br />
 
 ---
-[JAMstack - Hyperbolic](https://jamstack-hyperbolic.appseed.us/) - provided by **AppSeed**
+[JAMstack - Prototype](https://jamstack-prototype.appseed.us/) - provided by **AppSeed**
