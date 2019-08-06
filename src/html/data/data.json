@@ -1,0 +1,22 @@
+{
+    "copy"    : "AppSeed", 
+    "email"   : "support@appseed.us",
+    "design"  : "Prototype by Pixelarity",
+
+    "links" : {
+        "product_live"   : "https://appseed.us/apps/jamstack/jamstack-prototype-pixelarity", 
+        "product"        : "https://github.com/app-generator/priv-jamstack-prototype", 
+        "github"         : "https://github.com/app-generator/priv-jamstack-prototype",
+        "docs"           : "https://docs.appseed.us/apps/jamstack/jamstack-prototype-pixelarity/",
+        "appseed"        : "https://appseed.us",      
+        "generator"      : "https://appseed.us/app-generator",
+        "blog"           : "https://blog.appseed.us/",
+        "facebook"       : "https://facebook.com/webappseed",
+        "twitter"        : "https://twitter.com/webappseed",
+        "instagram"      : "https://instagram.com/webappseed",
+        "support"        : "https://appseed.us/support",
+        "discord"        : "https://discord.gg/fZC6hup"
+    }, 
+
+    "LAST_KEY" : "NA"
+}
