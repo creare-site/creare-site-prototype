@@ -4,8 +4,7 @@
     "design"  : "Prototype by Pixelarity",
 
     "links" : {
-        "product_live"   : "https://appseed.us/apps/jamstack/jamstack-prototype-pixelarity", 
-        "product"        : "https://github.com/app-generator/priv-jamstack-prototype", 
+        "product"        : "https://appseed.us/apps/jamstack/jamstack-prototype-pixelarity", 
         "github"         : "https://github.com/app-generator/priv-jamstack-prototype",
         "docs"           : "https://docs.appseed.us/apps/jamstack/jamstack-prototype-pixelarity/",
         "appseed"        : "https://appseed.us",      
