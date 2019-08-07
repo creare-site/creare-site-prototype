@@ -1,6 +1,6 @@
-# [JAMstack - Prototype](https://jamstack-prototype.appseed.us/)
+# [JAMstack Prototype](https://appseed.us/apps/jamstack/jamstack-prototype-pixelarity)
 
-Blazing fast application coded by AppSeed in JAMstack pattern on top of Prototype Pixelarity design.
+Blazing fast application coded by AppSeed in [JAMstack](https://jamstack.org/) pattern on top of Prototype Pixelarity design.
 
 <br />
 
@@ -15,13 +15,14 @@ This is a commercial application, to use it you need to buy a license. Please ac
 <br />
 
 ## App Links
----
- - [Jamstack Prototype demo](https://jamstack-prototype.appseed.us/)
- - [Prototype](https://pixelarity.com/prototype) - the design provided by Pixelarity 
+
+- [Jamstack Prototype](https://jamstack-prototype.appseed.us/) - live demo
+- [Pixelarity Prototype](https://pixelarity.com/prototype) - the design provided by Pixelarity 
 
 <br />
 
 ## How to use it
+
 - Clone this repo `git clone https://github.com/app-generator/priv-jamstack-prototype.git`
 - change directory to `priv-jamstack-prototype`
 - `yarn` - install deps
@@ -31,7 +32,8 @@ This is a commercial application, to use it you need to buy a license. Please ac
 
 <br />
 
-## JAMstack related Resources
+## [JAMstack](https://jamstack.org/) resources
+
 - Blog Articles related to [JAMstack](https://blog.appseed.us/tag/jamstack/)
 - [What is JAMstack](https://blog.appseed.us/what-is-jamstack/) - comprehensive article about JAMstack
 - [JAMstack.org](https://jamstack.org/)
@@ -40,4 +42,4 @@ This is a commercial application, to use it you need to buy a license. Please ac
 <br />
 
 ---
-[JAMstack - Prototype](https://jamstack-prototype.appseed.us/) - provided by **AppSeed**
+[JAMstack Prototype](https://appseed.us/apps/jamstack/jamstack-prototype-pixelarity) - provided by **AppSeed**
